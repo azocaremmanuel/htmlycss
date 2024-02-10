@@ -1,0 +1,40 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    background-color: bisque;
+}
+
+header {
+    background-image: url(../img/header.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 500px;
+}
+
+h1 {
+    padding: 8%;
+    color: white;
+    font-size: 60px;
+}
+
+main {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 80px;
+}
+
+.catalogoImg {
+    margin-top: 80px;
+    margin-right: 80px;
+    height: 400px;
+}
+
+footer {
+    background-color: black;
+    padding: 100px;
+    color: aliceblue;
+    text-align: center;
+}
